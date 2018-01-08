@@ -1,0 +1,9 @@
+Apartment.class
+SponsoredResource.class
+SponsoredApplication.class
+Database.class
+SponsoredServiceHealthCheck.class
+META-INF\services\javax.ws.rs.core.Application
+RestProperties.class
+LogContextInterceptor.class
+SponsoredResource$1.class
