@@ -1,7 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecf8704d-7404-4ad1-a45a-5c1d7346bf33" name="Default" comment="" />
+    <list default="true" id="ecf8704d-7404-4ad1-a45a-5c1d7346bf33" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_HdrHistogram-2.1.9.jar.5291664071119301360.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_HikariCP-2.6.3.jar.2981714549291414498.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_alpn-api-1.1.3.v20160715.jar.6251643960770723773.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_aopalliance-repackaged-2.5.0-b32.jar.5168090415602790683.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_archaius-core-0.4.1.jar.2874366706886459713.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_asm-6.0.jar.3355889998621378880.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_asm-commons-6.0.jar.1825724965153280390.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_asm-tree-6.0.jar.2833532479613956871.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_cdi-api-1.2.jar.344707966950809039.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_commons-codec-1.9.jar.8832964921972701164.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_commons-configuration-1.8.jar.2338014208229876864.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_commons-lang-2.6.jar.203865194706781902.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_commons-logging-1.2.jar.164805938453000572.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_disruptor-3.3.6.jar.8306673947628103425.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_etcd4j-2.14.0.jar.2957421956246503480.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_hk2-api-2.5.0-b32.jar.4200237745114509060.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_hk2-locator-2.5.0-b32.jar.1360530734813314275.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_hk2-utils-2.5.0-b32.jar.7372421064522654368.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_http2-client-9.4.8.v20171121.jar.2228485377341547473.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_http2-common-9.4.8.v20171121.jar.7419091457939510200.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_http2-hpack-9.4.8.v20171121.jar.3056941001926208711.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_http2-http-client-transport-9.4.8.v20171121.jar.2990143512547748425.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_http2-server-9.4.8.v20171121.jar.8716229203718162592.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_httpclient-4.5.3.jar.8677114799234875511.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_httpcore-4.4.6.jar.8875603684508643415.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_hystrix-core-1.5.12.jar.4137649425913887653.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_hystrix-metrics-event-stream-1.5.12.jar.1034370371583582846.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_hystrix-serialization-1.5.12.jar.3655806372780928082.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jackson-annotations-2.8.10.jar.7840644958166844620.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jackson-core-2.8.10.jar.5344347909388572380.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jackson-databind-2.8.10.jar.1861897816525747834.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jackson-datatype-jdk8-2.8.10.jar.1427536817697898040.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jackson-jaxrs-base-2.8.10.jar.5484600582503720944.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jackson-jaxrs-json-provider-2.8.10.jar.8801647961871146541.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jackson-module-afterburner-2.8.10.jar.9050615795571732114.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jackson-module-jaxb-annotations-2.8.10.jar.1157621917047690323.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jandex-2.0.4.Final.jar.2622347335771442829.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_javassist-3.20.0-GA.jar.95227570190095836.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_javax.annotation-api-1.3.1.jar.539452762287924816.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_javax.el-api-3.0.0.jar.7266142773989678684.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_javax.inject-1.jar.987870423563561917.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_javax.inject-2.5.0-b32.jar.8068951244032854864.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_javax.interceptor-api-1.2.jar.6612833226877891736.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_javax.servlet-api-3.1.0.jar.799244540262476040.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_javax.ws.rs-api-2.0.1.jar.1672189550933626056.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jboss-classfilewriter-1.2.1.Final.jar.6274599838899145772.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jboss-logging-3.3.1.Final.jar.8452890185288221701.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jersey-cdi1x-2.25.1.jar.4982935212873685359.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jersey-client-2.25.1.jar.8748895966107235925.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jersey-common-2.25.1.jar.3819760661769325553.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jersey-container-servlet-2.25.1.jar.3685904358287576047.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jersey-container-servlet-core-2.25.1.jar.381637788685249803.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jersey-entity-filtering-2.25.1.jar.7510594323630305596.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jersey-guava-2.25.1.jar.1718966871346977112.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jersey-jetty-connector-2.25.1.jar.3919203005358960048.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jersey-media-jaxb-2.25.1.jar.7686696813850865728.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jersey-media-json-jackson-2.25.1.jar.1942806506241986822.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jersey-server-2.25.1.jar.8366471866884488488.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-alpn-client-9.4.8.v20171121.jar.8376030492221685022.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-alpn-openjdk8-client-9.4.8.v20171121.jar.2260357983438477409.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-alpn-openjdk8-server-9.4.8.v20171121.jar.5454435554632628293.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-alpn-server-9.4.8.v20171121.jar.4573893807034942400.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-annotations-9.4.8.v20171121.jar.6176200337436657725.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-client-9.4.8.v20171121.jar.5076175198774133542.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-http-9.4.8.v20171121.jar.5642596027969358090.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-io-9.4.8.v20171121.jar.8643202378396553614.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-jndi-9.4.8.v20171121.jar.6940795009729407229.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-plus-9.4.8.v20171121.jar.5958497619223847257.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-security-9.4.8.v20171121.jar.5676604478413650922.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-server-9.4.8.v20171121.jar.3472007615914914062.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-servlet-9.4.8.v20171121.jar.7860365405365432504.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-util-9.4.8.v20171121.jar.2479296771951069170.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-webapp-9.4.8.v20171121.jar.3959078579392619944.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_jetty-xml-9.4.8.v20171121.jar.390680638103187362.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-cdi-weld-2.5.0-SNAPSHOT.jar.6750127711676559485.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-common-2.5.0-SNAPSHOT.jar.3945576349046792001.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-config-common-1.1.0-SNAPSHOT.jar.3476180079855970311.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-config-etcd-1.1.0-SNAPSHOT.jar.5824149003700329125.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-core-2.5.0-SNAPSHOT.jar.1603866029726000209.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-discovery-common-1.1.0-SNAPSHOT.jar.1714025137479856910.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-discovery-etcd-1.1.0-SNAPSHOT.jar.3827135549872145059.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-fault-tolerance-common-1.0.0-SNAPSHOT.jar.2536311383521951373.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-fault-tolerance-hystrix-1.0.0-SNAPSHOT.jar.897442804268351124.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-health-1.0.0-SNAPSHOT.jar.2134767422890197336.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-jax-rs-jersey-2.5.0-SNAPSHOT.jar.5635947631028624355.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-logs-common-1.3.0.jar.6415735670375611183.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-logs-log4j2-1.3.0.jar.5073055664936884903.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-metrics-core-1.0.0-SNAPSHOT.jar.4701189875178351049.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_kumuluzee-servlet-jetty-2.5.0-SNAPSHOT.jar.3652082748475749120.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_log4j-api-2.8.2.jar.1764064075563840845.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_log4j-core-2.8.2.jar.5380158453684836514.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_log4j-jcl-2.8.2.jar.1175580097694893315.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_log4j-jul-2.8.2.jar.890368904218531332.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_log4j-slf4j-impl-2.8.2.jar.4352444885409144251.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_metrics-core-3.2.4.jar.2921221494180501530.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_metrics-jvm-3.2.4.jar.8059639020944870711.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_microprofile-fault-tolerance-api-1.0.jar.3408779062173527550.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_microprofile-health-api-1.0.jar.5306436289380880127.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_microprofile-metrics-api-1.0.jar.4850366744195144717.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_netty-buffer-4.1.17.Final.jar.2180354391391961159.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_netty-codec-4.1.17.Final.jar.4311888378438599541.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_netty-codec-dns-4.1.17.Final.jar.8722382304815548012.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_netty-codec-http-4.1.17.Final.jar.2302138773220269964.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_netty-common-4.1.17.Final.jar.1538312619547078423.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_netty-handler-4.1.17.Final.jar.2720176734881687738.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_netty-resolver-4.1.17.Final.jar.5699415856265871576.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_netty-resolver-dns-4.1.17.Final.jar.6716847285052253867.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_netty-transport-4.1.17.Final.jar.4616244309654727769.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_org.osgi.annotation.versioning-1.0.0.jar.7036394876144160352.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_osgi-resource-locator-1.0.1.jar.3115518464451218269.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_rxjava-1.2.0.jar.1149057138292273013.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_semver4j-2.0.2.jar.2618151328844834195.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_slf4j-api-1.7.22.jar.3295504131106178993.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_snakeyaml-1.18.jar.6626841682703996973.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_validation-api-1.1.0.Final.jar.5934590066512484448.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_weld-api-2.4.SP2.jar.6240689667844775229.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_weld-core-impl-2.4.6.Final.jar.4151859132188762985.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_weld-core-jsf-2.4.6.Final.jar.6444312413718712104.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_weld-environment-common-2.4.6.Final.jar.2058583647864308194.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_weld-probe-core-2.4.6.Final.jar.5591605399185743774.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_weld-servlet-core-2.4.6.Final.jar.774039756282167862.tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/tmp/EeClassLoader/lib_weld-spi-2.4.SP2.jar.8369759250229338868.tmp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/SponsoredResource$1.class" afterPath="$PROJECT_DIR$/target/classes/SponsoredResource$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/SponsoredResource.class" afterPath="$PROJECT_DIR$/target/classes/SponsoredResource.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/sponsored-2.5.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/sponsored-2.5.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/sponsored-2.5.0-SNAPSHOT.jar.original" afterPath="$PROJECT_DIR$/target/sponsored-2.5.0-SNAPSHOT.jar.original" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/SponsoredResource.java" afterPath="$PROJECT_DIR$/src/main/java/SponsoredResource.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +152,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+              <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -37,7 +166,7 @@
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+              <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -46,8 +175,8 @@
       <file leaf-file-name="config.yaml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/config.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="674">
-              <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+            <state relative-caret-position="680">
+              <caret line="40" column="35" lean-forward="false" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -93,14 +222,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SponsoredResource.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SponsoredResource.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/SponsoredResource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1224">
-              <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+            <state relative-caret-position="544">
+              <caret line="83" column="8" lean-forward="false" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="8" />
               <folding>
-                <element signature="e#1523#1524#0" expanded="true" />
-                <element signature="e#1582#1583#0" expanded="true" />
+                <element signature="e#1686#1687#0" expanded="true" />
+                <element signature="e#1745#1746#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -110,7 +239,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Apartment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
-              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -157,11 +286,11 @@
         <option value="$PROJECT_DIR$/src/main/java/Database.java" />
         <option value="$PROJECT_DIR$/src/main/java/SponsoredApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/SponsoredServiceHealthCheck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SponsoredResource.java" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/src/main/resources/config.yaml" />
         <option value="$PROJECT_DIR$/src/main/resources/log4j2.xml" />
         <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/src/main/java/SponsoredResource.java" />
       </list>
     </option>
   </component>
@@ -178,9 +307,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="443" />
-    <option name="y" value="-11" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="101" />
+    <option name="y" value="-10" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -202,10 +331,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,6 +386,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,6 +430,12 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <envs />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -448,15 +583,16 @@
       <workItem from="1514292651801" duration="2341000" />
       <workItem from="1514360900618" duration="3933000" />
       <workItem from="1515406487616" duration="239000" />
-      <workItem from="1515406767701" duration="2468000" />
+      <workItem from="1515406767701" duration="2806000" />
+      <workItem from="1515419726637" duration="3289000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42084000" />
+    <option name="totallyTimeSpent" value="45711000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -468,8 +604,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -480,8 +616,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -546,14 +682,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Customer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Apartment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -609,8 +738,8 @@
         <state relative-caret-position="255">
           <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
           <folding>
-            <element signature="e#1523#1524#0" expanded="true" />
-            <element signature="e#1582#1583#0" expanded="true" />
+            <element signature="e#1686#1687#0" expanded="true" />
+            <element signature="e#1745#1746#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -630,14 +759,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Customer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Apartment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -693,8 +815,8 @@
         <state relative-caret-position="187">
           <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
           <folding>
-            <element signature="e#1523#1524#0" expanded="true" />
-            <element signature="e#1582#1583#0" expanded="true" />
+            <element signature="e#1686#1687#0" expanded="true" />
+            <element signature="e#1745#1746#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -714,14 +836,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Customer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Apartment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -749,8 +864,8 @@
         <state relative-caret-position="646">
           <caret line="55" column="5" lean-forward="false" selection-start-line="55" selection-start-column="5" selection-end-line="55" selection-end-column="5" />
           <folding>
-            <element signature="e#1523#1524#0" expanded="true" />
-            <element signature="e#1582#1583#0" expanded="true" />
+            <element signature="e#1686#1687#0" expanded="true" />
+            <element signature="e#1745#1746#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -811,14 +926,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Customer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/SponsoredServiceHealthCheck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -863,26 +971,15 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Apartment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SponsoredResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1224">
-          <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-          <folding>
-            <element signature="e#1523#1524#0" expanded="true" />
-            <element signature="e#1582#1583#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -913,8 +1010,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/config.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+        <state relative-caret-position="680">
+          <caret line="40" column="35" lean-forward="false" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
           <folding />
         </state>
       </provider>
@@ -930,8 +1027,19 @@
     <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SponsoredResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="83" column="8" lean-forward="false" selection-start-line="83" selection-start-column="8" selection-end-line="83" selection-end-column="8" />
+          <folding>
+            <element signature="e#1686#1687#0" expanded="true" />
+            <element signature="e#1745#1746#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -4,6 +4,7 @@ SponsoredApplication.class
 Database.class
 SponsoredServiceHealthCheck.class
 META-INF\services\javax.ws.rs.core.Application
+SponsoredResource$2.class
 RestProperties.class
 LogContextInterceptor.class
 SponsoredResource$1.class

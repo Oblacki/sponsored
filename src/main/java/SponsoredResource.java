@@ -18,6 +18,8 @@ import java.util.List;
 import java.util.Optional;
 import javax.inject.Inject;
 import javax.ws.rs.client.Client;
+import javax.xml.crypto.Data;
+
 import org.eclipse.microprofile.metrics.annotation.Metered;
 import org.eclipse.microprofile.faulttolerance.CircuitBreaker;
 import org.eclipse.microprofile.faulttolerance.Fallback;
@@ -47,22 +49,45 @@ public class SponsoredResource {
     private RestProperties restProperties;
 
     @GET
-    @Metered
     public Response getAllSponsored() {
+        return Response.ok(Database.getSponsored()).build();
+    }
+
+    @GET
+    @Path("list")
+    public Response getAllSponsoredApartments() {
         return Response.ok(getApartments()).build();
     }
 
     @GET
     @Path("add/{apartmentId}")
     public Response addNewSponsored(@PathParam("apartmentId") String apartmentId) {
-        Database.addSponsored(apartmentId);
-        return Response.noContent().build();
+
+        if(baseUrl.isPresent()) {
+
+                try {
+                    String url = baseUrl.get() + "/v1/apartments/" + apartmentId;
+                    Apartment apartment = httpClient.target(url).request().get(new GenericType<Apartment>() {});
+                    Database.addSponsored(apartmentId);
+
+                } catch (Exception e) {
+                    System.out.println("Exception");
+                    String msg = e.getClass().getName() + " occured: " + e.getMessage();
+                    throw new InternalServerErrorException(msg);
+                }
+
+            return Response.noContent().build();
+        }
+
+        else return Response.noContent().build();
+
+        
     }
 
     @DELETE
     @Path("{apartmentId}")
-    public Response deleteSponsored(@PathParam("apartmentId") String customerId) {
-        Database.deleteSponsored(customerId);
+    public Response deleteSponsored(@PathParam("apartmentId") String apartmentId) {
+        Database.deleteSponsored(apartmentId);
         return Response.noContent().build();
     }
 
@@ -74,19 +99,27 @@ public class SponsoredResource {
         List<String> sponsored = Database.getSponsored();
         List<Apartment> sponsoredApartments = new ArrayList<>();
 
-        if(baseUrl.isPresent()) {
-            try {
-                for(int i = 0; i < sponsored.size(); i++){
-                    Apartment apartment = httpClient.target(baseUrl.get() + "/v1/apartments/" + sponsored.get(i)).request()
-                            .get(new GenericType<Apartment>() {});
-                    sponsoredApartments.add(apartment);
-                }
-                return sponsoredApartments;
+        System.out.println("bla");
 
-            } catch (Exception e) {
-                String msg = e.getClass().getName() + " occured: " + e.getMessage();
-                throw new InternalServerErrorException(msg);
+        if(baseUrl.isPresent() && sponsored.size() > 0) {
+
+            for(int i = 0; i < sponsored.size(); i++){
+                try {
+                    String url = baseUrl.get() + "/v1/apartments/" + sponsored.get(i);
+                    System.out.println(url);
+                    Apartment apartment = httpClient.target(url).request().get(new GenericType<Apartment>() {});
+                    System.out.println(apartment);
+                    sponsoredApartments.add(apartment);
+
+                } catch (Exception e) {
+                    System.out.println("Exception");
+                    String msg = e.getClass().getName() + " occured: " + e.getMessage();
+                    throw new InternalServerErrorException(msg);
+                }
+
             }
+
+            return sponsoredApartments;
         }
         else
             return new ArrayList<>();
